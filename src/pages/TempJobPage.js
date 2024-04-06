@@ -4,11 +4,11 @@ import { NavLink } from "react-router-dom";
 const TempJobPage = () => {
   const [underlineActive, setUnderlineActive] = useState(false);
 
-  const [index, setIndex] = useState(0);
+  // const [index, setIndex] = useState(0);
 
-  const handleSelect = (selectedIndex) => {
-    setIndex(selectedIndex);
-  };
+  // const handleSelect = (selectedIndex) => {
+  //   setIndex(selectedIndex);
+  // };
 
   useEffect(() => {
     // Activate underline animation on component mount
