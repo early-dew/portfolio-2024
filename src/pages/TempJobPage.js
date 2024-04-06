@@ -1,7 +1,5 @@
 import { useEffect, useState } from "react";
-import ScrollToTop from "../components/ScrollToTop";
-import { Carousel } from "react-bootstrap";
-import { NavLink, useLocation } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 const TempJobPage = () => {
   const [underlineActive, setUnderlineActive] = useState(false);
