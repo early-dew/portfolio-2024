@@ -224,7 +224,7 @@ const AboutPage = () => {
         <section>
           <h3>[work experience]</h3>
           <article className="work-section">
-            <h4>Junior Finance Manager</h4>
+            <h4>Finance Manager</h4>
             <p className="mb-3">
               <span style={{ color: "#3D7DCA" }}>HomeToGo GmbH</span>
               <span className="yellow-dot">•</span>
