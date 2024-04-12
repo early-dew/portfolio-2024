@@ -37,9 +37,9 @@ const VoiceNotes = () => {
             <h3>[Description]</h3>
             <div className="col-lg-7 col-md-12 col-sm-12 mb-4">
               <p>
-                "VoiceNotes" is a productivity application designed to
-                streamline note-taking and organization through intuitive voice
-                commands and user-friendly features.
+                Voice Notes is a productivity application designed to streamline
+                note-taking and organization through intuitive voice commands
+                and user-friendly features.
               </p>
               <p className="my-4 ">
                 <b>Libraries and APIs used in the project:</b>

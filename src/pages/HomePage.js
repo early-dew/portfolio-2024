@@ -79,9 +79,9 @@ const HomePage = () => {
                     <p className="subtitle">Vocabulary Training App</p>
                   </div>
                   <p>
-                    KeepWords is a dynamic language learning app. It is a great
-                    tool whether you're looking to pick up a new language or
-                    master one you already know.
+                    KeepWords is a dynamic language learning app that generates
+                    new sentences with the vocabulary that you want to learn in
+                    multiple languages.
                   </p>
                   <div className="d-flex">
                     <div className="tag tag-margin-lg">Frontend</div>
@@ -109,9 +109,9 @@ const HomePage = () => {
                     <p className="subtitle">Voice To-Do App</p>
                   </div>
                   <p>
-                    KeepWords is a dynamic language learning app. It is a great
-                    tool whether you're looking to pick up a new language or
-                    master one you already know.
+                    Voice Notes is a productivity application designed to
+                    streamline note-taking and organization through intuitive
+                    voice commands and user-friendly features.
                   </p>
 
                   <div className="d-flex">
